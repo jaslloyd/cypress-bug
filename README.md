@@ -5,7 +5,7 @@ This repo is to be used as an example of a Bug for MSW and Cypress see https://g
 1. Start react App yarn start (MSW is enabled in dev mode)
 2. Start cypress and run `home.spec.js` and open your dev tools
 3. One assertion will fail will fail (this is on purpose)
-4. Look at the network traffic over 1400 requests are made, this on a biggest project with code splitting and everything results in super super slow js bundles being downloaded
+4. Look at the network traffic over 1400 requests are made, this on a bigger project with code splitting and everything results in super super slow js bundles being downloaded
 
 To confirm its MSW and the service worker
 
